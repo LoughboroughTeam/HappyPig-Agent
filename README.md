@@ -1,14 +1,12 @@
 # HappyPig Agent Group
+<div style="padding: 10px; text-align: left;">
+  <img src="https://github.com/s2029927szm/HappyPig-Agent/blob/main/Groceries/logo.png" style="height: 30px; width: auto;" alt="Logo" /><br>
+</div>
 
 <!-- Top section: Background image -->
 <div style="width: 100%; height: 200px;">
     <img src="https://github.com/s2029927szm/HappyPig-Agent/blob/main/Groceries/loughborough_university_icon.jpg"/><br><br>
 </div>
-
-<div style="padding: 10px; text-align: left;">
-  <img src="https://github.com/s2029927szm/HappyPig-Agent/blob/main/Groceries/logo.png" style="height: 30px; width: auto;" alt="Logo" />
-</div>
-
 
 ## 1.Reading Sharing
 
