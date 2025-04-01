@@ -12,7 +12,10 @@
 | **Zhaomin Sun** | z.sun8@lboro.ac.uk | AI & Trnasportation | ... |
 | **...** | ... | ... | ... |
 
-## 1.Reading Sharing
+
+**Please add your contact information here!!! We will publish our github for the competition organizer soon, which may give them a bio for some work opportunities**
+
+## 2.Reading Sharing
 
 **We will start the reading sharing from the first week 01/04/2025 ~ 06/04/2025. We will attempt to send everyone a paper (mostly from the LLM Agent course) to prepare a simple slids or other format you like for presentation.**
 
