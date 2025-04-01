@@ -5,6 +5,13 @@
     <img src="https://github.com/s2029927szm/HappyPig-Agent/blob/main/Groceries/loughborough_university_icon.jpg"/><br><br>
 </div>
 
+## 1.Team Member
+
+| Name | Email | Research Topic | CV / Personal_Page |
+| -------- | ------------- | --------------------------------- | ------------- |
+| **Zhaomin Sun** | z.sun8@lboro.ac.uk | AI & Trnasportation | ... |
+| **...** | ... | ... | ... |
+
 ## 1.Reading Sharing
 
 **We will start the reading sharing from the first week 01/04/2025 ~ 06/04/2025. We will attempt to send everyone a paper (mostly from the LLM Agent course) to prepare a simple slids or other format you like for presentation.**
