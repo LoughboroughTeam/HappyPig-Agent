@@ -1,4 +1,4 @@
-# HappyPig Agent Group <img src="https://github.com/s2029927szm/HappyPig-Agent/blob/main/Groceries/logo.png?raw=true" style="height: 30px; vertical-align: middle;" alt="Logo" />
+# HappyPig Agent Group <img src="https://github.com/s2029927szm/HappyPig-Agent/blob/main/Groceries/logo.png?raw=true" style="height: 50px; vertical-align: middle;" alt="Logo" />
 
 <!-- Top section: Background image -->
 <div style="width: 100%; height: 200px;">
