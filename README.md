@@ -1,7 +1,8 @@
-<div style="padding: 10px; text-align: left;">
-  <img src="https://github.com/s2029927szm/HappyPig-Agent/blob/main/Groceries/logo.png" style="height: 30px; width: auto;" alt="Logo" />
-  <h1 style="margin: 0;">HappyPig Agent Group</h1>
+<div style="display: inline-flex; align-items: center; gap: 10px;">
+  <img src="https://github.com/s2029927szm/HappyPig-Agent/blob/main/Groceries/logo.png?raw=true" style="height: 30px; width: auto;" alt="Logo" />
+  <span style="font-size: 24px; font-weight: bold;">HappyPig Agent Group</span>
 </div>
+
 
 <!-- Top section: Background image -->
 <div style="width: 100%; height: 200px;">
