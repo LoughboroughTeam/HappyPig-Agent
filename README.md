@@ -1,6 +1,6 @@
-# HappyPig Agent Group
 <div style="padding: 10px; text-align: left;">
-  <img src="https://github.com/s2029927szm/HappyPig-Agent/blob/main/Groceries/logo.png" style="height: 30px; width: auto;" alt="Logo" /><br>
+  <img src="https://github.com/s2029927szm/HappyPig-Agent/blob/main/Groceries/logo.png" style="height: 30px; width: auto;" alt="Logo" />
+  <h1 style="margin: 0;">HappyPig Agent Group</h1>
 </div>
 
 <!-- Top section: Background image -->
