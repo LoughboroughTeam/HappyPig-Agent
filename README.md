@@ -1,6 +1,6 @@
 <div style="display: inline-flex; align-items: center; gap: 10px;">
-  <img src="https://github.com/s2029927szm/HappyPig-Agent/blob/main/Groceries/logo.png?raw=true" style="height: 30px; width: auto;" alt="Logo" />
   <span style="font-size: 24px; font-weight: bold;">HappyPig Agent Group</span>
+  <img src="https://github.com/s2029927szm/HappyPig-Agent/blob/main/Groceries/logo.png?raw=true" style="height: 30px; width: auto;" alt="Logo" />
 </div>
 
 
