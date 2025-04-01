@@ -1,5 +1,5 @@
 <div style="display: inline-flex; align-items: center; gap: 10px;">
-  <span style="font-size: 24px; font-weight: bold;">HappyPig Agent Group</span>
+  <h1 style="margin: 0;">HappyPig Agent Group</h1>
   <img src="https://github.com/s2029927szm/HappyPig-Agent/blob/main/Groceries/logo.png?raw=true" style="height: 30px; width: auto;" alt="Logo" />
 </div>
 
