@@ -1,4 +1,4 @@
-# HappyPig Agent Group <img src="https://github.com/s2029927szm/HappyPig-Agent/blob/main/Groceries/logo.png?raw=true" style="height: 50px; vertical-align: middle;" alt="Logo" />
+# HappyPig Agent Group <img src="https://github.com/s2029927szm/HappyPig-Agent/blob/main/Groceries/logo_h.svg?raw=true" style="height: 50px; vertical-align: middle;" alt="Logo" />
 
 <!-- Top section: Background image -->
 <div style="width: 100%; height: 200px;">
@@ -13,7 +13,7 @@
 | **...** | ... | ... | ... |
 
 
-**Please add your contact information here!!! We will publish our github for the competition organizer soon, which may give them a bio for some work opportunities**
+**Please add your contact information here!!! We will publish our github for the competition organizer soon, which may give them a bio for some work opportunities.**
 
 ## 2.Reading Sharing
 
