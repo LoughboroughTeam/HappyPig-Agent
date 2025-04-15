@@ -1,0 +1,17 @@
+1. Reflexion: language agents with verbal reinforcement learning:
+https://proceedings.neurips.cc/paper_files/paper/2023/hash/1b44b878bb782e6954cd888628510e90-Abstract-Conference.html
+
+2. Toolformer: Language Models Can Teach Themselves to Use Tools: 
+https://proceedings.neurips.cc/paper_files/paper/2023/hash/d842425e4bf79ba039352da0f658a906-Abstract-Conference.html 
+
+3. WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents:
+https://proceedings.neurips.cc/paper_files/paper/2022/hash/82ad13ec01f9fe44c01cb91814fd7b8c-Abstract-Conference.html 
+
+4. WebArena: A Realistic Web Environment for Building Autonomous Agents:：
+https://arxiv.org/abs/2307.13854 
+
+5. Chain-of-Thought Reasoning Without Prompting:
+https://arxiv.org/abs/2402.10200
+
+6. Self-Consistency Improves Chain of Thought Reasoning in Language Models：
+https://arxiv.org/abs/2203.11171

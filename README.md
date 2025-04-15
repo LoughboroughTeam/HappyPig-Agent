@@ -29,5 +29,8 @@
 | ---- | ----------- | ----- | ----------------------------------------- |
 | **WW1** | 2024/04/06 8am | [![](https://img.shields.io/badge/_Reading%20List%20w1_-orange)](https://github.com/s2029927szm/HappyPig-Agent/tree/main/Groceries/Reading_list_w1.txt) | Zhaomin-1, Siyuan-2, Haoyu-3, Yu-4, Zihan-5, Yalei-6 |
 | **WW2_1** | 2024/04/08 8:30pm | [![](https://img.shields.io/badge/_Reading%20List%20w1_-orange)](https://github.com/s2029927szm/HappyPig-Agent/tree/main/Groceries/Reading_list_w1.txt) | Haoyu-3, Yalei-6 |
-| **WW2** | pending | pending | ... |
+| **WW2_2** | 2024/04/13 13:00pm | [![](https://img.shields.io/badge/_Reading%20List%20w1_-orange)](https://github.com/s2029927szm/HappyPig-Agent/tree/main/Groceries/Reading_list_w1.txt) | Siyuan-2, Zihan-5 |
+| **WW3_1** | 2024/04/15 20:30pm | [![](https://img.shields.io/badge/_Reading%20List%20w2_-orange)](https://github.com/s2029927szm/HappyPig-Agent/tree/main/Groceries/Reading_list_w2.txt) | Zhaomin-ReAct, Zhaomin-1 |
+| **WW3_2** | 2024/04/18 20:30pm | [![](https://img.shields.io/badge/_Reading%20List%20w2_-orange)](https://github.com/s2029927szm/HappyPig-Agent/tree/main/Groceries/Reading_list_w2.txt) | ... |
+| **WW3** | pending | pending | ... |
 
